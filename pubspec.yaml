@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_wallpaper_manager:
   flutter_cache_manager:
+  flutter_downloader:
 
 
 dev_dependencies:
