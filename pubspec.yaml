@@ -37,6 +37,7 @@ dependencies:
   flutter_wallpaper_manager:
   flutter_cache_manager:
   flutter_downloader:
+  eexternal_path:
 
 
 dev_dependencies:
